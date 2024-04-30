@@ -33,7 +33,7 @@ python predict_rgbd_multiprocess.py
 ```
 
 ## Checkpoints
-We provide pretrained checkpoints. The pre-trained models in ** - [./src/checkpoints/CNN_1024_30/53.pth](./src/checkpoints/CNN_1024_30/53.pth)**
+We provide pretrained checkpoints. The pre-trained models in  - [**./src/checkpoints/CNN_1024_30/53.pth**](./src/checkpoints/CNN_1024_30/53.pth)
 
 ## Ackonwledgement
 
